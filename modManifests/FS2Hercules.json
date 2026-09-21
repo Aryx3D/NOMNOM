@@ -23,13 +23,13 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "NuclearOption-FS2-GTF-Hercules-1.0.0.zip",
-      "version": "1.0.0",
+      "fileName": "NuclearOption-FS2-GTF-Hercules-1.0.1.zip",
+      "version": "1.0.1",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/BTawaifi/NuclearOption-FS2-GTF-Hercules/releases/download/1.0.0/NuclearOption-FS2-GTF-Hercules-1.0.0.zip",
-      "hash": "sha256:353523b4e36ba2faa11cc0fe973ea54a862aa16c38f0a20bd934e0deea3434b6"
+      "downloadUrl": "https://github.com/BTawaifi/NuclearOption-FS2-GTF-Hercules/releases/download/1.0.1/NuclearOption-FS2-GTF-Hercules-1.0.1.zip",
+      "hash": "sha256:6327e676ae9e27e8281207660c219ea5103ec3de567f31df0febc34a528b7f77"
     }
   ]
 }
