@@ -1,0 +1,35 @@
+{
+  "id": "FS2Hercules",
+  "displayName": "Nuclear Option: FS2 GTF Hercules",
+  "description": "Adds the FreeSpace 2 GTF Hercules as an atmospheric-refit heavy-assault aircraft for Nuclear Option. The release includes an extractor that reads the player's original FreeSpace 2 installation and generates the required local model and texture assets.",
+  "tags": [
+    "mod",
+    "aircraft",
+    "FreeSpace 2",
+    "art"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/BTawaifi/NuclearOption-FS2-GTF-Hercules/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "BTawaifi"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "BTawaifi",
+  "githubRepoName": "NuclearOption-FS2-GTF-Hercules",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearOption-FS2-GTF-Hercules-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BTawaifi/NuclearOption-FS2-GTF-Hercules/releases/download/1.0.0/NuclearOption-FS2-GTF-Hercules-1.0.0.zip",
+      "hash": "sha256:353523b4e36ba2faa11cc0fe973ea54a862aa16c38f0a20bd934e0deea3434b6"
+    }
+  ]
+}
